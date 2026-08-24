@@ -1,21 +1,18 @@
 <div align="center">
 
 <!-- Gradient animated banner. Edit text/colors via the URL params (customColorList = gradient stops). -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24,28&height=170&section=header&text=Hey%2C%20I%27m%20Aaryan&fontSize=46&fontColor=ffffff&animation=twinkling&fontAlignY=35" alt="Hey, I'm Aaryan" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24,28&height=170&section=header&text=Hey%2C%20I%27m%20Aaryan&fontSize=46&fontColor=ffffff&animation=twinkling&fontAlignY=35" alt="Hey, I'm Aaryan" width="100%"/>
 
 <!-- Neon typing animation. Edit the rotating lines via the lines= param (separate with ;). -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=900&color=00E5FF&center=true&vCenter=true&random=false&width=640&height=50&lines=Curious+builder+%F0%9F%9B%A0%EF%B8%8F;Data+%2B+AI+tinkerer+%F0%9F%A7%A0;Experiment-driven+maker+%F0%9F%A7%AA;Coffee-fueled+night+owl+%E2%98%95;Web-slinging+code+%2B+black+coffee+%F0%9F%95%B8%EF%B8%8F;Late-night+idea+collector+%F0%9F%8C%99" alt="Typing animation"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=900&color=00E5FF&center=true&vCenter=true&random=false&width=640&height=50&lines=Curious+builder+%F0%9F%9B%A0%EF%B8%8F;Data+%2B+AI+tinkerer+%F0%9F%A7%A0;Experiment-driven+maker+%F0%9F%A7%AA;Coffee-fueled+night+owl+%E2%98%95;Late-night+idea+collector+%F0%9F%8C%99" alt="Typing animation"/>
 </a>
 
 <p><em>First-year MCA student from India, shipping practical little tools for everyday problems.</em></p>
 
 <!-- Replace the placeholders below with your real links. -->
 <a href="https://www.linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
-<a href="YOUR_KAGGLE_URL"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white" alt="Kaggle"/></a>
-<a href="YOUR_LEETCODE_URL"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
-<a href="YOUR_HACKERRANK_URL"><img src="https://img.shields.io/badge/HackerRank-00EA64?style=flat-square&logo=hackerrank&logoColor=black" alt="HackerRank"/></a>
+<a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
 
 </div>
 
@@ -102,15 +99,18 @@ The tools I actually reach for:
 ## 📈 GitHub Stats
 
 <div align="center">
-  <!-- Kept to the two most stable cards. If GitHub's public cache rate-limits,
-       they recover automatically; no activity graph or trophy host needed. -->
-  <img src="https://github-readme-stats.vercel.app/api?username=aaryankumar70&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Aaryan's GitHub stats" width="48%"/>
+  <!-- Stats card: public instance can rate-limit; see note below if it errors. -->
+ 
+  <!-- Streak card: hosted on the maintained demolab.com domain (the old Heroku URL is retired). -->
   <img src="https://streak-stats.demolab.com?user=aaryankumar70&theme=tokyonight&hide_border=true" alt="GitHub streak" width="48%"/>
 </div>
 <br/>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaryankumar70&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Top languages" width="48%"/>
+ 
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aaryankumar70&theme=tokyo-night&hide_border=true" alt="Contribution graph" width="48%"/>
 </div>
+<br/>
+
 
 ---
 
@@ -131,6 +131,4 @@ The tools I actually reach for:
 
 </div>
 
-
-
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24,28&height=90&section=footer" alt="footer" width="100%"/>
