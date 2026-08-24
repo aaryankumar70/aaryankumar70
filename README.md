@@ -1,137 +1,43 @@
 <div align="center">
 
-<!-- Gradient animated banner. Edit text/colors via the URL params (customColorList = gradient stops). -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24,28&height=170&section=header&text=Hey%2C%20I%27m%20Aaryan&fontSize=46&fontColor=ffffff&animation=twinkling&fontAlignY=35" alt="Hey, I'm Aaryan" width="100%"/>
+<img src="./assets/web-coder-coffee.svg" alt="A web-slinging coder with black coffee" width="100%" />
 
-<!-- Neon typing animation. Edit the rotating lines via the lines= param (separate with ;). -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=900&color=00E5FF&center=true&vCenter=true&random=false&width=640&height=50&lines=Curious+builder+%F0%9F%9B%A0%EF%B8%8F;Data+%2B+AI+tinkerer+%F0%9F%A7%A0;Experiment-driven+maker+%F0%9F%A7%AA;Coffee-fueled+night+owl+%E2%98%95;Late-night+idea+collector+%F0%9F%8C%99" alt="Typing animation"/>
-</a>
+# Hey, I'm Aaryan 👋
 
-<p><em>First-year MCA student from India, shipping practical little tools for everyday problems.</em></p>
+<em>MCA student · data, AI, robotics, and useful little tools.</em>
 
-<!-- Replace the placeholders below with your real links. -->
-<a href="https://www.linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
+<!-- Replace only the URLs below. Keep the badge image URLs unchanged. -->
+<a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="YOUR_KAGGLE_URL"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" /></a>
+<a href="YOUR_LEETCODE_URL"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
+<a href="YOUR_HACKERRANK_URL"><img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" alt="HackerRank" /></a>
 
 </div>
 
----
+## About me
 
-<!-- ===================== ABOUT ME ===================== -->
-## 🧑‍💻 About Me
+I like turning late-night ideas into practical tools. I’m into data, AI, robotics, automation, and projects that solve small everyday annoyances.
 
-I'm **Aaryan** (`@aaryankumar70`), a first-year MCA student from India.
+## Interests
 
-I like taking small, real-world friction points and turning them into tools that actually get used. Most of what I build starts as a late-night idea, gets roughed out fast, and either earns a spot in my daily routine or teaches me something worth keeping.
+📊 Data & analytics · 🧠 AI & machine learning · 🤖 Robotics & automation · 🛠️ Vibe-coded useful tools · ☕ Black coffee
 
-- 🚀 I build practical projects for everyday problems.
-- 🔬 I experiment a lot — prototypes over polish, then refine what sticks.
-- ☕ Coffee-fueled and backed by a backlog of half-finished notes.
+## Around my workspace
 
----
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="SQL" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI" />
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
 
-<!-- ===================== INTERESTS ===================== -->
-## 🔭 Interests
-
-A snapshot of what pulls my attention:
-
-- 📊 **Data Analysis & Data Science** — finding the story hiding in messy numbers.
-- 🤖 **AI & Machine Learning** — putting models to work on small, useful tasks.
-- ⚙️ **Robotics & Automation** — taking the boring, repeatable work off my plate.
-- 🌐 **Web Development** — shipping tiny tools that anyone can open and use.
-- 🛠️ **Building small tools** — tiny projects that solve a real problem for me or someone nearby.
-
----
-
-<!-- ===================== TECH AROUND MY WORKSPACE ===================== -->
-## 🧰 Tech Around My Workspace
-
-The tools I actually reach for:
-
-<div>
-  <!-- Languages -->
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="SQL"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"/>
-</div>
-<br/>
-<div>
-  <!-- Data / Analysis -->
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy"/>
-  <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" alt="Excel"/>
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI"/>
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" alt="Tableau"/>
-</div>
-<br/>
-<div>
-  <!-- AI / ML -->
-  <img src="https://img.shields.io/badge/AI%2FML-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="AI/ML"/>
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" alt="scikit-learn"/>
-  <img src="https://img.shields.io/badge/Matplotlib-3776AB?style=flat-square&logo=python&logoColor=white" alt="Matplotlib"/>
-</div>
-<br/>
-<div>
-  <!-- Web Dev / Frameworks -->
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/>
-  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI"/>
-</div>
-<br/>
-<div>
-  <!-- Tools / Platforms -->
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
-  <img src="https://img.shields.io/badge/Jupyter-F37726?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter"/>
-</div>
-
----
-
-<!-- ===================== GITHUB STATS ===================== -->
-## 📈 GitHub Stats
+## GitHub stats
 
 <div align="center">
-  <!-- Stats card: public instance can rate-limit; see note below if it errors. -->
-  <img src="https://github-readme-stats.vercel.app/api?username=aaryankumar70&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" alt="Aaryan's GitHub stats" width="48%"/>
-  <!-- Streak card: hosted on the maintained demolab.com domain (the old Heroku URL is retired). -->
-  <img src="https://streak-stats.demolab.com?user=aaryankumar70&theme=tokyonight&hide_border=true" alt="GitHub streak" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=aaryankumar70&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Aaryan's GitHub stats" height="165" />
+  <img src="https://streak-stats.demolab.com?user=aaryankumar70&theme=tokyonight&hide_border=true" alt="Aaryan's GitHub streak" height="165" />
 </div>
-<br/>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaryankumar70&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" width="48%"/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aaryankumar70&theme=tokyo-night&hide_border=true" alt="Contribution graph" width="48%"/>
-</div>
-<br/>
-<div align="center">
-  <!-- Trophies: if this host is ever down, try https://github-trophies.vercel.app/?username=aaryankumar70 -->
-  <img src="https://github-profile-trophy.vercel.app/?username=aaryankumar70&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=6" alt="Trophies"/>
-</div>
-
----
-
-<!-- ===================== FUN FACTS / BEYOND CODE ===================== -->
-## 🌙 Fun Facts / Beyond Code
-
-- ☕ My best ideas arrive sometime around 2 AM, usually uninvited.
-- 🧪 I treat side projects like experiments — run it, observe, keep or discard.
-- 🗂️ I keep a running notes file of "things to build" that's never empty.
-- 🤖 If a task is repetitive, my first instinct is to automate it.
-- 🐧 I'm more at home in a terminal than in a settings menu.
-
----
 
 <div align="center">
-
-<sub>Built late at night, fueled by coffee. ⭐ Feel free to borrow anything useful.</sub>
-
+  <sub>Built late at night, fueled by black coffee. ☕</sub>
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24,28&height=90&section=footer" alt="footer" width="100%"/>
