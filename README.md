@@ -1,12 +1,14 @@
 <div align="center">
 
-<!-- Animated banner. Edit text/color/animation via the URL params. -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=140&section=header&text=Hi%2C%20I%27m%20Aaryan&fontSize=42&fontColor=58a6ff&animation=fadeIn&fontAlignY=38" alt="banner" width="100%"/>
+<!-- Gradient animated banner. Edit text/colors via the URL params (customColorList = gradient stops). -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24,28&height=170&section=header&text=Hey%2C%20I%27m%20Aaryan&fontSize=46&fontColor=ffffff&animation=twinkling&fontAlignY=35" alt="Hey, I'm Aaryan" width="100%"/>
 
-<!-- Animated typing intro. Change the lines= param to edit the rotating phrases. -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58a6ff&center=true&vCenter=true&random=false&width=600&height=45&lines=Curious+builder;Experiment-driven+maker;Coffee-fueled+night+owl;Late-night+idea+collector" alt="Typing SVG"/></a>
+<!-- Neon typing animation. Edit the rotating lines via the lines= param (separate with ;). -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=900&color=00E5FF&center=true&vCenter=true&random=false&width=640&height=50&lines=Curious+builder+%F0%9F%9B%A0%EF%B8%8F;Data+%2B+AI+tinkerer+%F0%9F%A7%A0;Experiment-driven+maker+%F0%9F%A7%AA;Coffee-fueled+night+owl+%E2%98%95;Late-night+idea+collector+%F0%9F%8C%99" alt="Typing animation"/>
+</a>
 
-<p><em>First-year MCA student from India, vibe-coding practical things for everyday problems.</em></p>
+<p><em>First-year MCA student from India, shipping practical little tools for everyday problems.</em></p>
 
 <!-- Replace the placeholders below with your real links. -->
 <a href="https://www.linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
@@ -23,7 +25,7 @@ I'm **Aaryan** (`@aaryankumar70`), a first-year MCA student from India.
 
 I like taking small, real-world friction points and turning them into tools that actually get used. Most of what I build starts as a late-night idea, gets roughed out fast, and either earns a spot in my daily routine or teaches me something worth keeping.
 
-- 🚀 I vibe-code practical projects for everyday problems.
+- 🚀 I build practical projects for everyday problems.
 - 🔬 I experiment a lot — prototypes over polish, then refine what sticks.
 - ☕ Coffee-fueled and backed by a backlog of half-finished notes.
 
@@ -36,7 +38,7 @@ A snapshot of what pulls my attention:
 
 - 📊 **Data Analysis & Data Science** — finding the story hiding in messy numbers.
 - 🤖 **AI & Machine Learning** — putting models to work on small, useful tasks.
-- 🤖 **Robotics & Automation** — taking the boring, repeatable work off my plate.
+- ⚙️ **Robotics & Automation** — taking the boring, repeatable work off my plate.
 - 🌐 **Web Development** — shipping tiny tools that anyone can open and use.
 - 🛠️ **Building small tools** — tiny projects that solve a real problem for me or someone nearby.
 
@@ -97,18 +99,20 @@ The tools I actually reach for:
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aaryankumar70&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&count_private=true" alt="Aaryan's GitHub stats" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=aaryankumar70&theme=dark&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&curr=58a6ff" alt="GitHub streak" width="48%"/>
+  <!-- Stats card: public instance can rate-limit; see note below if it errors. -->
+  <img src="https://github-readme-stats.vercel.app/api?username=aaryankumar70&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" alt="Aaryan's GitHub stats" width="48%"/>
+  <!-- Streak card: hosted on the maintained demolab.com domain (the old Heroku URL is retired). -->
+  <img src="https://streak-stats.demolab.com?user=aaryankumar70&theme=tokyonight&hide_border=true" alt="GitHub streak" width="48%"/>
 </div>
 <br/>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaryankumar70&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff" alt="Top languages" width="48%"/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aaryankumar70&theme=github-compact&hide_border=true&color=58a6ff&line=58a6ff&point=ffffff" alt="Contribution graph" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaryankumar70&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" width="48%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aaryankumar70&theme=tokyo-night&hide_border=true" alt="Contribution graph" width="48%"/>
 </div>
 <br/>
 <div align="center">
-  <!-- Trophy cards (auto-generated from your repos). -->
-  <img src="https://github-profile-trophy.vercel.app/?username=aaryankumar70&theme=darkhub&no-frame=true&no-bg=true&margin-w=8" alt="Trophies"/>
+  <!-- Trophies: if this host is ever down, try https://github-trophies.vercel.app/?username=aaryankumar70 -->
+  <img src="https://github-profile-trophy.vercel.app/?username=aaryankumar70&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=6" alt="Trophies"/>
 </div>
 
 ---
@@ -130,4 +134,4 @@ The tools I actually reach for:
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=80&section=footer" alt="footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24,28&height=90&section=footer" alt="footer" width="100%"/>
