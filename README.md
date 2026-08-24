@@ -121,8 +121,7 @@ I like taking small, real-world friction points and turning them into tools that
 
 <div align="center">
 
-<!-- GitHub Stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=aaryankumar70&theme=tokyonight&hide_border=true&bg_color=0d1117&text_color=c9d1d9&title_color=58a6ff" alt="GitHub Stats" width="48%"/>
+
 
 <!-- Streak Stats -->
 <img src="https://streak-stats.demolab.com?user=aaryankumar70&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak" width="48%"/>
@@ -140,12 +139,6 @@ I like taking small, real-world friction points and turning them into tools that
 
 <br/>
 
-<!-- Most Used Languages -->
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaryankumar70&theme=tokyonight&hide_border=true&bg_color=0d1117&text_color=c9d1d9&title_color=58a6ff&layout=compact" alt="Top Languages" width="48%"/>
-
-</div>
 
 ---
 
