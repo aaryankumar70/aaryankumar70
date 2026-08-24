@@ -106,7 +106,7 @@ The tools I actually reach for:
 </div>
 <br/>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaryankumar70&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" width="48%"/>
+ 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=aaryankumar70&theme=tokyo-night&hide_border=true" alt="Contribution graph" width="48%"/>
 </div>
 <br/>
