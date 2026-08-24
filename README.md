@@ -100,7 +100,7 @@ The tools I actually reach for:
 
 <div align="center">
   <!-- Stats card: public instance can rate-limit; see note below if it errors. -->
-  <img src="https://github-readme-stats.vercel.app/api?username=aaryankumar70&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" alt="Aaryan's GitHub stats" width="48%"/>
+ 
   <!-- Streak card: hosted on the maintained demolab.com domain (the old Heroku URL is retired). -->
   <img src="https://streak-stats.demolab.com?user=aaryankumar70&theme=tokyonight&hide_border=true" alt="GitHub streak" width="48%"/>
 </div>
@@ -110,10 +110,7 @@ The tools I actually reach for:
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=aaryankumar70&theme=tokyo-night&hide_border=true" alt="Contribution graph" width="48%"/>
 </div>
 <br/>
-<div align="center">
-  <!-- Trophies: if this host is ever down, try https://github-trophies.vercel.app/?username=aaryankumar70 -->
-  <img src="https://github-profile-trophy.vercel.app/?username=aaryankumar70&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=6" alt="Trophies"/>
-</div>
+
 
 ---
 
