@@ -66,16 +66,9 @@ The tools I actually reach for:
 - 🤖 If a task is repetitive, my first instinct is to automate it.
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aaryankumar70&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff" alt="Aaryan's GitHub stats" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=aaryankumar70&theme=dark&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&curr=58a6ff" alt="GitHub streak" width="48%" />
 </div>
 
-<!-- Optional: Top langs card. Remove if you don't want it. -->
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaryankumar70&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff" alt="Top languages" width="48%" />
-</div>
-
----
 
 <div align="center">
 
