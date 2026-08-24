@@ -1,18 +1,86 @@
-# 💫 About Me:
-# Hey, I'm Aryan 👋<br><br>🎓 MCA student with a growing obsession for turning data into useful insights.<br><br>I’m working toward a career in **Data Analytics** and **Data Science**, while exploring **AI, robotics, and practical tools** that make everyday tasks a little easier.<br><br>## What I’m focused on<br><br>- 📊 Learning data analysis: Python, SQL, Excel, Power BI<br>- 🧠 Exploring machine learning and AI<br>- 🤖 Interested in robotics, automation, and intelligent systems<br>- 🛠️ Building small “vibe-coded” tools for real-world use<br><br>## Current goal<br><br>Build projects that show I can go from messy data → clear insight → useful solution.<br><br>## Tech I’m learning<br><br>`Python` · `SQL` · `Pandas` · `Excel` · `Power BI` · `Machine Learning` · `Git`<br><br>## Let’s connect
+<div align="center">
 
+<!-- Replace the banner image URL below or remove this block if you don't want a banner. -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=140&section=header&text=Hi%2C%20I%27m%20Aaryan&fontSize=42&fontColor=58a6ff&animation=fadeIn&fontAlignY=38" alt="banner" width="100%" />
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aryan-gupta-33469038a/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aaryangupta0904@gmail.com) 
+<!-- 👋 A short, friendly intro line. Edit freely. -->
+<h3>Curious builder · experimenter · caffeine guzzler · late-night idea collector 🛠️</h3>
+<p><em>First-year MCA student from India, vibe-coding practical things for everyday problems.</em></p>
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Windicss](https://img.shields.io/badge/windicss-48B0F1.svg?style=for-the-badge&logo=windi-css&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=aaryankumar70&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=aaryankumar70&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=aaryankumar70&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<!-- Replace the placeholders below with your real links. -->
+<a href="https://www.linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+
+</div>
 
 ---
-[![](https://komarev.com/ghpvc/?username=aaryankumar70&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- ===================== ABOUT ME ===================== -->
+## 🧑‍💻 About Me
+
+I'm **Aaryan** (`@aaryankumar70`), a first-year MCA student from India.
+
+I like taking small, real-world friction points and turning them into tools that actually get used. Most of what I build starts as a late-night idea, gets roughed out fast, and either earns a spot in my daily routine or teaches me something worth keeping.
+
+- 🚀 I vibe-code practical projects for everyday problems.
+- 🔬 I experiment a lot — prototypes over polish, then refine what sticks.
+- ☕ Powered by caffeine and a backlog of half-finished notes.
+
+---
+
+<!-- ===================== INTERESTS ===================== -->
+## 🔭 Interests
+
+A snapshot of what pulls my attention:
+
+- 📊 **Data Analysis & Data Science** — finding the story hiding in messy numbers.
+- 🤖 **AI & Machine Learning** — putting models to work on small, useful tasks.
+- 🤖 **Robotics & Automation** — taking the boring, repeatable work off my plate.
+- 🛠️ **Building small tools** — tiny projects that solve a real problem for me or someone nearby.
+
+---
+
+<!-- ===================== TECH AROUND MY WORKSPACE ===================== -->
+## 🧰 Tech Around My Workspace
+
+The tools I actually reach for:
+
+<div>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" alt="Excel" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/AI%2FML-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="AI/ML" />
+</div>
+
+---
+
+<!-- ===================== FUN FACTS / BEYOND CODE ===================== -->
+## 🌙 Fun Facts / Beyond Code
+
+- ☕ My best ideas arrive sometime around 2 AM, usually uninvited.
+- 🧪 I treat side projects like experiments — run it, observe, keep or discard.
+- 🗂️ I keep a running notes file of "things to build" that's never empty.
+- 🤖 If a task is repetitive, my first instinct is to automate it.
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aaryankumar70&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff" alt="Aaryan's GitHub stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=aaryankumar70&theme=dark&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&curr=58a6ff" alt="GitHub streak" width="48%" />
+</div>
+
+<!-- Optional: Top langs card. Remove if you don't want it. -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaryankumar70&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff" alt="Top languages" width="48%" />
+</div>
+
+---
+
+<div align="center">
+
+<sub>Built late at night, fueled by caffeine. ⭐ Feel free to borrow anything useful.</sub>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=80&section=footer" alt="footer" width="100%" />
